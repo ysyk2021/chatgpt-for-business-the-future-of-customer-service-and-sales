@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the future of customer service and sales and how businesses can leverage ChatGPT technology to enhance the overall customer experience. We will cover a range of topics related to customer service and sales, including:
 

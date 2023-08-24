@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore what ChatGPT is and its features and capabilities. We will also discuss how ChatGPT can be used for customer service and sales.
 
