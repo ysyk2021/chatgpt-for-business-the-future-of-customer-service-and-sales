@@ -12,3 +12,7 @@ The following chapters provide more in-depth insights into the capabilities of C
 Ultimately, this book aims to provide a comprehensive understanding of how ChatGPT can transform customer service and sales for businesses. By embracing this technology, businesses can stay ahead of the competition and deliver exceptional customer experiences.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
