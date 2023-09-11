@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced digital world, businesses are constantly seeking innovative ways to enhance customer service and drive sales. One of the most promising technologies in this regard is Artificial Intelligence (AI) and its application in chatbots. This chapter serves as an introduction to AI and chatbots, exploring their potential and the benefits they offer to businesses.
 

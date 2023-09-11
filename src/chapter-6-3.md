@@ -1,5 +1,4 @@
-Chapter 2: Case Studies of Businesses Successfully Implementing ChatGPT in Their Services
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies of businesses that have successfully implemented ChatGPT in their customer service and sales operations. These examples highlight the benefits and outcomes achieved by integrating AI-powered chatbots into their business strategies.
 

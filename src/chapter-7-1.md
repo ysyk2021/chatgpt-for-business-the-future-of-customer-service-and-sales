@@ -1,5 +1,4 @@
-Chapter 6: Potential Advancements in Customer Service and Sales with ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the potential advancements that ChatGPT can bring to customer service and sales. As an AI-powered chatbot, ChatGPT has the potential to transform customer interactions significantly, enhancing support efficiency, personalizing experiences, and driving sales growth.
 

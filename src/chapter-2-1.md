@@ -1,5 +1,4 @@
-Chapter 2: Definition of Customer Service and Sales
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the definitions of customer service and sales and their significance in the business landscape. Understanding these concepts is crucial for leveraging the power of ChatGPT and AI in transforming customer experiences and driving business growth.
 

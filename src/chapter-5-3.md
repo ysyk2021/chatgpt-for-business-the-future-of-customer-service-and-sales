@@ -1,5 +1,4 @@
-Chapter 5: How ChatGPT Can Be Used for Customer Service and Sales
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various applications of ChatGPT in customer service and sales. We'll examine how businesses can leverage this AI-powered chatbot to enhance customer interactions, improve support efficiency, and drive sales growth.
 

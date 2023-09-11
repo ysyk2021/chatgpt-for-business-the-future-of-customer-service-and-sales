@@ -1,5 +1,4 @@
-Chapter 6: Factors Affecting Customer Service and Sales
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, customer service and sales have evolved significantly, influenced by various factors that shape the customer experience. Understanding these factors is crucial for businesses leveraging ChatGPT in customer service and sales processes. In this chapter, we will explore key factors that impact customer service and sales and discuss their implications for businesses.
 

@@ -1,5 +1,4 @@
-Chapter 7: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an AI-powered chatbot designed to revolutionize customer service and sales. By understanding the various functionalities and abilities of ChatGPT, businesses can effectively leverage its power to enhance customer interactions and drive sales growth.
 

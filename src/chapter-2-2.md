@@ -1,5 +1,4 @@
-Chapter 4: Different Types of Customer Interactions
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of customer interactions that can take place in a business setting. We'll examine how AI-powered chatbots like ChatGPT can facilitate these interactions and enhance customer experiences.
 

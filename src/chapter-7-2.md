@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Challenges in Business and ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges that businesses face in implementing ChatGPT for customer service and sales. As ChatGPT technology continues to advance, it is essential for businesses to stay informed about the latest trends and address potential challenges effectively to maximize the benefits of AI-powered chatbots.
 

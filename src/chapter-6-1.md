@@ -1,5 +1,4 @@
-Chapter 3: Steps to Implement ChatGPT in Businesses
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline a step-by-step guide for businesses looking to implement ChatGPT in their customer service and sales operations. Following these steps will help ensure a successful integration of AI-powered chatbots into your business processes.
 

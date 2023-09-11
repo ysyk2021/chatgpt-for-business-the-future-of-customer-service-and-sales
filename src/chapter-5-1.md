@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT stands for "Chat-based GPT," where GPT stands for "Generative Pre-trained Transformer." It is a state-of-the-art language model developed by OpenAI. ChatGPT is designed to generate human-like responses to text prompts, making it an ideal technology for building conversational AI applications.
 

@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Using ChatGPT in Improving Customer Service and Sales
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating ChatGPT into customer service and sales processes has the potential to revolutionize how businesses engage with their customers. To maximize the benefits, it's important to follow best practices. In this chapter, we explore key strategies for using ChatGPT effectively to enhance customer service and sales.
 
